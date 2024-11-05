@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opahieyu.github.io/Bpv/sitemap_index.txt
+Sitemap: https://opahieyu.github.io/PTe/sitemap_index.txt
+Sitemap: https://opahieyu.github.io/tHu/sitemap_index.txt
+Sitemap: https://opahieyu.github.io/uFr/sitemap_index.txt
